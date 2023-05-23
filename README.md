@@ -1,16 +1,14 @@
-<h2 align = "center">t̟͎̮̮̲̺̞͊̃͟h̤̠̱̥͇̙̘̊͟͟ǐͬ͏͏͓̠̫͍̣͡s̫̳̖̪̦͖̺̝ͯͫ̒_̞̝ͫͫ̂ṕ͉͕̩̟e̴̦̝̦̩̹͔̻̝̓̌ͨr̡͕̞͗͛ͤ͞s̪̺̟̘̆͑ͨǫ̹̼̻͐ͣnͨ̾ͩ̊ͪ͢҉̳͓̪̬̩̻̙͝_̗̹̠͍͈̙ͮ̃͌̇d̵̨͖̭̪̺̪̟͎ͨͩ̅ó͚̰͚̪̫̤̟ͭͯ͜e̴̹̳͐̓͗͜͝ş̤̟͑ͨͥ̾̃_͈̻̠̫͗̃͛̏̓͆͡ͅņ̮̟̤͔̼͈̦͛o͕͇̹̮͓͓̓̐t͗ͯ̿̄ͨ̐̂̋͊҉̗̱̖̟_̴̛̥̼̗̦̝̇ͯ͆͌e̢̤͕̩͉̮ͬ̃ͣ͋̇x͇̤͚̘̦͎̏̑̏ͥ̔ͤi̴̷̳̪̰̘͇ͦ̋͂̔̊̾̇̒͟ͅs̱̙̞̣͊t̛̲ͨͣͫͣ͋</h2>
+<h2 align = "center">t̷͇̮͚̬̳͙͎ͣ̾̍ͫ͌e̢̨͇̥̞͈͔̭͉͑͆͗̃̉́x̨̨̥͗̂̇́ţ͈̦̺̣͔̖͕͔̌ͭ̌̽_̲̯͔̺̻̰͓͍̏̈̆ͨͤ̀̑́g̴̏̍͏̱̜e̩̙ͫ͆̍̅̀n̛̛̹̪̗̲̼̰ͯ̈͝ͅe͔̣̘͍͕͕͚̓͌r̭̬̗ͩ̊͂ͩ́̀̚̕á̂ͤ͟҉̤̯̺̖͢t͕͇̥͇͇̤̜̗̳ͪͤ͞o͎̼͈̪̐̒r̭̩̤̘̘̫͗͟ͅ</h2>
 <details align = "center">
 <summary>ŗ̺̹̩̙͍̰̹̠̼ͮͫͮ͊͊̾̅e̷̛͎͍̯̐̓̑̆v̸̴͎ͣ̂ͅe̯̜̮̿̆̚a̠̩̮̞̥̭̤͊ͥͦ͋ͦ͛̏̾͆l͉͈̯̍ͤͥ̉͗͒͜ ͉͚̝̳̼̝̀̃ͦͭ̉̕͘͠m̡̮̱̝̱̘̤̭̀̃̒͂̊̿͢e̤̰͚̫̬̒̔̑ͥ͂̓͡͡ ̨̥̫͕̣͓̃͆ͦͧ̍́͘͟ͅ:̔̅͝͏̺̯̦̠̭̫ ̮͖̭̭̯̰̹͓̊ͮ̕͞͡
 </summary>
 
-###### This library is intended for requests to the this-person-does-not-exist website/Эта библиотека предназначена для запросов на сайт this-person-does-not-exist
+###### This library is intended for requests to the text generator website/Эта библиотека предназначена для запросов на сайт textgenerator 
 ###### example/Пример :
 
 ```
-from this_person_does_not_exist import this_person_does_not_exist
-this_person_does_not_exist = this_person_does_not_exist()
-name = this_person_does_not_exist.new().name
-this_person_does_not_exist.get_img(name = name)
+from text_generator import text_generator
+print(text_generator(text = 'proxy').strike())
 ```
 </details>
 
